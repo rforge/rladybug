@@ -43,8 +43,17 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
-
+<ul>
+ <li> The R package wraps functionality of a Java program using the <tt>rjava</tt> package, thus a java virtual machine has to be installed on your computer. 
+ </li
+ <li>The package comes with ABSOLUTELY NO WARRANTY. This is
+    free software with all R code available under a copyleft
+            left. However, some of the underlying Java code its use
+            restricted to NON-COMMERCIAL use. Read the file "LICENSE" of            the package for a long story about the unresolved licensing
+            issue of "RLadyBug", which currently prevents it to
+           re-appear on CRAN.
+  </li>
+</ul>
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
 </body>
