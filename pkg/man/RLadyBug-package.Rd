@@ -48,9 +48,9 @@ License: \tab see file LICENSE \cr
   
 }
 \author{
-Michael \enc{Höhle}{Hoehle}, Ulrike Feldmann, and Sebastian Meyer
+Michael \enc{Höhle}{Hoehle} and Ulrike Feldmann with contributions by Sebastian Meyer
 
-Maintainer: Michael \enc{Höhle}{Hoehle} \email{hoehle@stat.uni-muenchen.de}
+Maintainer: Michael \enc{Höhle}{Hoehle} \email{hoehle@math.su.se}
 }
 \references{
   RLadyBug -- An R package for working with stochastic epidemic models
